@@ -1,1 +1,2 @@
 Hello, my name is Ryun.
+I'm a frontend developer.
